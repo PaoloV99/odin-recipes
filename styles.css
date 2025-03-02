@@ -20,3 +20,15 @@
 .index {
     font-size: 24px;
 }
+
+.idx_div {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.index li {
+    display: inline-block;
+    background-color: rgb(169, 192, 35);
+    padding: 8px;
+    font-size: 30px
+}
